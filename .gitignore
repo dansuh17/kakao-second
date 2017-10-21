@@ -1,0 +1,20 @@
+# OSX
+.DS_Store
+._*
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+Session.vim
+*~
+tags
+
+# python
+venv/
+
+# intellij
+.idea/
+kakao_second.iml
+auth.txt
